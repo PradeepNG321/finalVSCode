@@ -1,7 +1,7 @@
 // script.js
 
 // 🔁 Replace with your actual Google Apps Script Web App URL:
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwntjCcAiBlAkSbJ9J7BauGZ_uG6jjNirXB-YxGirgvr_JCDRF1eyKxNw-2zLyOsod6/exec';
+const scriptURL = 'YOUR_GOOGLE_SCRIPT_WEB_APP_URL';
 
 document.getElementById('myForm').addEventListener('submit', function (e) {
   e.preventDefault();
